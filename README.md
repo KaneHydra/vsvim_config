@@ -1,6 +1,6 @@
 # my personal VsVim config
 
-vim keybinding for virtual studio 2022
+vim key binding for vistual studio 2022
 
 download from official repo's release
 [VsVim git repo](https://github.com/VsVim/VsVim)
@@ -8,7 +8,7 @@ download from official repo's release
 or download from microsoft marketplace
 [VsVim2022Preview](https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim2022Preview)
 
-Close Virtual Studio to install the plugin.
+Close Vistual Studio to install the plugin.
 
 vimrc path:
 `%USERPROFILE%/.vsvimrc`
