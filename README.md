@@ -10,6 +10,8 @@ or download from microsoft marketplace
 vimrc path:
 `%USERPROFILE%/.vsvimrc`
 
+and my current vimrc config:
+
 ```vimrc
 set nu rnu
 set expandtab
