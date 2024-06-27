@@ -1,4 +1,5 @@
-# vsvim_config
+# my personal VsVim config
+
 vim keybinding for virtual studio 2022
 
 download from official repo's release
