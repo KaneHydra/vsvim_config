@@ -2,10 +2,10 @@
 
 vim key binding for vistual studio 2022
 
-download from official repo's release
+for MacOS, download from official repo's release
 [VsVim git repo](https://github.com/VsVim/VsVim)
 
-or download from microsoft marketplace
+Fow Windows, download from microsoft marketplace
 [VsVim2022Preview](https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim2022Preview)
 
 Close Vistual Studio to install the plugin.
